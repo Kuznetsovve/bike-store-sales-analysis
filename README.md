@@ -1,5 +1,14 @@
-# bike-store-sales-analysis
+# bike-store-sales-analysis'
+
+## Файлы:
+
+`bike_store_sales.ipynb` - интерактивный ноутбук с аналитикой
+`sales_data.csv` - данные для аналитики
+`README.md`
+`LICENSE`
+
 ## Анализ продаж веломагазинов
+
 **Выполненные шаги:**
 
 1. Отрыть датасет с помощью `pandas`
